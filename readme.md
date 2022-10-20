@@ -10,5 +10,5 @@ this should be your main source for the most up todate guidance about digital se
 
 todo:
 - [ ] general
-- [] secure comunication
-- [] browsing
+- [ ] secure comunication
+- [ ] browsing
