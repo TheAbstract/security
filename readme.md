@@ -9,15 +9,21 @@ be mindful that surveillance may come from both state and corporate actors.
 read the electronic frontier foundation's [surveillance self-defence resource](https://ssd.eff.org) page. 
 this should be your main source for the most up to date guidance about digital security.
 
-## email and password management
+## email management
 
-emails and passwords are key objects online. almost all online accounts are tied to an email.  
+emails are key objects online. almost all online accounts are tied to an email.  
 
 **recommendations for email management:** 
-- maintain two types of emails; secure and other. your secure email is strictly for important accounts and interactions.
-- important accounts are those whose compromise would affect your material well-being; for example bank account, insurance, etc.
-- the secure should be used for these types of important accounts and nothing else.
-- all other accounts, for example; store, news, social media should go in the other account. basically everything not directly tied to your material resources should go in a separate email account.
+1. maintain two types of emails; secure and other. your secure email is strictly for important accounts and interactions. 
+important accounts are those whose compromise would affect your material well-being; for example bank account, insurance, etc. 
+the secure should be used for these types of important accounts and nothing else.
+all other accounts, for example; store, news, social media should go in the other account. basically everything not directly tied to your material resources should go in a separate email account. 
+
+2. use an encrypted email service, like [protonmail](https://proton.me/mail).
+
+## password management
+
+
 
 todo:
 - [ ] general
