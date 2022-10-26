@@ -19,11 +19,15 @@ important accounts are those whose compromise would affect your material well-be
 the secure should be used for these types of important accounts and nothing else.
 all other accounts, for example; store, news, social media should go in the other account. basically everything not directly tied to your material resources should go in a separate email account. 
 
-2. use an encrypted email service, like [protonmail](https://proton.me/mail).
+2. use an encrypted email service, like [proton-mail](https://proton.me/mail).
 
 ## password management
 
+1. use a password manager.
 
+2. choose a [strong passphrase](https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html) for the manager itself.
+
+3. always choose a new password with every account or site. never re-use a password!
 
 todo:
 - [ ] general
