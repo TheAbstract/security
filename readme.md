@@ -29,7 +29,11 @@ all other accounts, for example; store, news, social media should go in the othe
 
 3. always choose a new password with every account or site. never re-use a password!
 
+4. for all applications and sites where it is available, enable [two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication).
+
+
+
 todo:
-- [ ] general
 - [ ] secure communication
 - [ ] browsing
+- [ ] secure computing
