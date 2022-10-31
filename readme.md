@@ -41,7 +41,7 @@ all other accounts, for example; store, news, social media should go in the othe
 - encrypt your computers/devices hard-drive.
 - this should be the first things you do when setting up a new device.
 - your devices should not be accessible (from any state; off, sleep, locked screen) without a password.
-
+- backup important data on your hardware, have both offline and cloud-based backups. 
 
 
 todo:
