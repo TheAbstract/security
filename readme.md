@@ -9,7 +9,6 @@ be mindful that surveillance may come from both state and corporate actors.
 read the electronic frontier foundation's [surveillance self-defence resource](https://ssd.eff.org) page. 
 this should be your main source for the most up to date guidance about digital security.
 
-
 ## email management
 
 emails are key objects online. almost all online accounts are tied to an email.  
@@ -22,7 +21,6 @@ all other accounts, for example; store, news, social media should go in the othe
 
 2. use an encrypted email service, like [proton-mail](https://proton.me/mail).
 
-
 ## password management
 
 1. use a password manager.
@@ -33,11 +31,17 @@ all other accounts, for example; store, news, social media should go in the othe
 
 4. for all applications and sites where it is available, enable [two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication).
 
-
 ## general
 
 - avoid public or shared computers when doing anything important.
 - never plug in any usb-device into your computer that isn't yours or comes from someone you don't seriously trust.
+
+## secure your hardware
+
+- encrypt your computers/devices hard-drive.
+- this should be the first things you do when setting up a new device.
+- your devices should not be accessible (from any state; off, sleep, locked screen) without a password.
+
 
 
 todo:
