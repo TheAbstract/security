@@ -44,7 +44,3 @@ all other accounts, for example; store, news, social media should go in the othe
 - backup important data on your hardware, have both offline and cloud-based backups. 
 
 
-todo:
-- [ ] secure communication
-- [ ] browsing
-- [ ] secure computing
