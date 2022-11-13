@@ -31,16 +31,15 @@ all other accounts, for example; store, news, social media should go in the othe
 
 4. for all applications and sites where it is available, enable [two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication).
 
+## secure your hardware
+
+- encrypt your computers/devices hard-drive. this should be the first things you do when setting up a new device.
+- your devices should not be accessible (from any state; off, sleep, locked screen) without a password.
+- backup important data on your hardware, have both offline and cloud-based backups. 
+
 ## general
 
 - avoid public or shared computers when doing anything important.
 - never plug in any usb-device into your computer that isn't yours or comes from someone you don't seriously trust.
-
-## secure your hardware
-
-- encrypt your computers/devices hard-drive.
-- this should be the first things you do when setting up a new device.
-- your devices should not be accessible (from any state; off, sleep, locked screen) without a password.
-- backup important data on your hardware, have both offline and cloud-based backups. 
 
 
