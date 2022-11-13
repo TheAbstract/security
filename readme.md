@@ -37,6 +37,13 @@ all other accounts, for example; store, news, social media should go in the othe
 - your devices should not be accessible (from any state; off, sleep, locked screen) without a password.
 - backup important data on your hardware, have both offline and cloud-based backups. 
 
+## browsing
+
+- use [brave](https://brave.com), it has the most sensible default settings for anyone reading this.
+- you should know how to set your browser to the most secure and private settings it has available.
+- any site/service that does work with your preferred setting is probably trying to do something you don't want them to.
+
+---
 ## general
 
 - avoid public or shared computers when doing anything important.
