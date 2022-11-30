@@ -11,7 +11,7 @@ this should be your main source for the most up to date guidance about digital s
 
 ## email management
 
-emails are key objects online. almost all online accounts are tied to an email.  
+your email is the most important account you have. almost all online accounts are tied to an email.  
 
 **recommendations for email management:** 
 1. maintain two types of emails; secure and other. your secure email is strictly for important accounts and interactions. 
